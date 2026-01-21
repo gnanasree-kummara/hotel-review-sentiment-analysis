@@ -18,5 +18,6 @@ This project performs sentiment analysis on hotel reviews to classify them as po
 ## Learning Outcome
 This project helped me understand text preprocessing, feature extraction, and building machine learning models for NLP-based sentiment analysis.
 
-## Acknowledgement
-This project was inspired by an open-source implementation and was modified and extended for academic learning purposes.
+## Collaboration
+This project was developed as a group academic project. The implementation was carried out collaboratively, and this repository represents my contribution and learning from the project.
+
